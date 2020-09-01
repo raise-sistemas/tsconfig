@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "@atos6/tsconfig/react.json",
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "lib": ["dom", "dom.iterable", "esnext"]
+  }
+}
