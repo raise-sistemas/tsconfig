@@ -1,9 +1,9 @@
 {
   "name": "@atos6/tsconfig",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Company Global tsconfig files",
   "license": "MIT",
-  "repository": "raise-sistemas/tsconfig",
+  "repository": "git@github.com:raise-sistemas/tsconfig.git",
   "author": "Marcos Neves <marcos.neves@gmail.com>",
   "main": "tsconfig.json"
 }
